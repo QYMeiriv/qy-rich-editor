@@ -1,6 +1,7 @@
 {
-  "name": "qy-richt-editor",
+  "name": "qy-rich-editor",
   "version": "1.0.0",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/QYMeiriv/qy-rich-editor"
