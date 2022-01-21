@@ -1,5 +1,6 @@
 {
   "name": "qy-rich-editor",
+  "private": true,
   "version": "1.0.0",
   "workspaces": [
     "modules/*"
